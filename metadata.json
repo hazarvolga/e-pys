@@ -1,0 +1,6 @@
+{
+  "name": "ALLPLAN e-PYS Dijital Dönüşüm Portalı",
+  "description": "T.C. ÇEŞB e-PYS yönetmeliği, Türkiye geneli 3B openBIM / IFC zorunluluğu, bSDD standartları ve ALLPLAN + ALUPLAN çözümleri için etkileşimli dijital analiz platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
